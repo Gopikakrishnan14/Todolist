@@ -1,0 +1,31 @@
+header {
+    /* display: flex; */
+    align-items: center; 
+    justify-content: space-between; 
+    background-color: #6d92b7;
+    padding: 10px 20px;
+    border-bottom: 1px solid #ddd;
+}
+header img {
+    width: 10%;
+    height: 10%;
+    margin-right: 15px;
+}
+nav {
+    font-size:20px;
+    margin-right: 10%;
+    margin-top: 5%;
+    color: #333;
+    flex-grow: 1;
+    float: right;
+}
+nav a{
+   ;
+    padding: 15px;
+}
+
+#body1{
+    background-image: url('images/b2.jpg');
+    background-size: cover; 
+}
+
